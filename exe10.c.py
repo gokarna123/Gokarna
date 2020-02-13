@@ -1,0 +1,20 @@
+a=2
+b=3
+c=4
+d=3
+x=b==d
+print(x)
+y=a!=c
+print(y)
+v= a + c
+print(v)
+e=b/d
+print(e)
+f=b>a
+print(f)
+g=a<d
+print(g)
+h=(b-a)==(c-b)
+print(h)
+i=b>=d
+print(i)
